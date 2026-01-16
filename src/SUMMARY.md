@@ -1,10 +1,8 @@
 # Summary
 
-- [introduction](intro.md)
-
 - [Chapter 1](./chapter1/0.md)
-  - [Why Rust](./chapter1/1.md)
-  - [About Programming](./chapter1/2.md)
+  <!-- - [Why Rust](./chapter1/1.md) -->
+  - [Programming Terms](./chapter1/2.md)
   - [About Development](./chapter1/3.md)
   - [Setup](./chapter1/4.md)
   - [Cargo](./chapter1/5.md)
@@ -37,4 +35,14 @@
   - [Enum](./chapter6/1.md)
   - [Struct](./chapter6/2.md)
   - [Impl](./chapter6/3.md)
-  - [Supplement](./chapter6/4.md)
+  - [Match](./chapter6/4.md)
+  - [Supplement](./chapter6/5.md)
+
+- [Chapter 7](./chapter7/0.md)
+  - [Option](./chapter7/1.md)
+  - [Result](./chapter7/2.md)
+  - [Unwrap](./chapter7/3.md)
+
+- [Chapter 8](./chapter8/0.md)
+  - [Generics](./chapter8/1.md)
+  - [Traits](./chapter8/2.md)
