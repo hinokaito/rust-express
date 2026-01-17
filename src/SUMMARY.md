@@ -39,6 +39,7 @@
   - [Impl](./chapter6/3.md)
   - [Match](./chapter6/4.md)
   - [Supplement](./chapter6/5.md)
+  - [演習](./chapter6/exercise.md)
 
 - [Chapter 7](./chapter7/0.md)
   - [Option](./chapter7/1.md)
