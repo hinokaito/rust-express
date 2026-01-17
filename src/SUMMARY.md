@@ -51,3 +51,7 @@
   - [Lifetimes](./chapter9/1.md)
   - [Lifetime Annotation](./chapter9/2.md)
   - [Static Lifetime](./chapter9/3.md)
+
+- [Chapter 10](./chapter10/0.md)
+  - [Closures](./chapter10/1.md)
+  - [Iterators](./chapter10/2.md)
