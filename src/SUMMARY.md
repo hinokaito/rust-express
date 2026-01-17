@@ -46,3 +46,8 @@
 - [Chapter 8](./chapter8/0.md)
   - [Generics](./chapter8/1.md)
   - [Traits](./chapter8/2.md)
+
+- [Chapter 9](./chapter9/0.md)
+  - [Lifetimes](./chapter9/1.md)
+  - [Lifetime Annotation](./chapter9/2.md)
+  - [Static Lifetime](./chapter9/3.md)
