@@ -59,9 +59,10 @@
   - [Closures](./chapter10/1.md)
   - [Iterators](./chapter10/2.md)
 
-- [Chapter 11](./chapter11/0.md)
+- [動的ディスパッチとBox](./chapter11/0.md)
   - [Dynamic/Static](./chapter11/1.md)
   - [Dynamic](./chapter11/2.md)
+  - [Box](./chapter11/3.md)
 
 
 - [for dev](./mdbook_ref.md)

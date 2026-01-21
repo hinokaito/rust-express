@@ -1,9 +1,17 @@
-fn print_owned(value: Box<dyn ToString>) {
-    println!("{}", value.to_string());
+struct Matryoshka {
+    size: u32,
+    next: Option<Box<Matryoshka>>
 }
 
 fn main() {
-    let val: Box<dyn ToString> = Box::new(10);
-    print_owned(val);
-    print_owned(val);
+    let m = Matryoshka {
+        size: 3,
+        next: Some(Box::new(Matryoshka {
+            size: 2,
+            next: Some(Box::new(Matryoshka {
+                size: 1,
+                next: None
+            }))
+        }))
+    };
 }
