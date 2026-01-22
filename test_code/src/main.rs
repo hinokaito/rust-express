@@ -1,17 +1,6 @@
-struct Matryoshka {
-    size: u32,
-    next: Option<Box<Matryoshka>>
-}
+const CONDITION: bool = true;
+static X: u8 = if CONDITION { 1 } else { 0 };
 
 fn main() {
-    let m = Matryoshka {
-        size: 3,
-        next: Some(Box::new(Matryoshka {
-            size: 2,
-            next: Some(Box::new(Matryoshka {
-                size: 1,
-                next: None
-            }))
-        }))
-    };
+    println!("{}", X);
 }

@@ -1,9 +1,7 @@
 # Summary
 
 - [Rustへようこそ](./chapter1/0.md)
-  <!-- - [Why Rust](./chapter1/1.md) -->
-  <!-- - [Programming Terms](./chapter1/2.md)
-  - [About Development](./chapter1/3.md) -->
+  - [プログラミング用語集](./chapter1/2.md)
   - [Setup](./chapter1/4.md)
   - [Cargo](./chapter1/5.md)
   - [演習](./chapter1/exercise.md)
@@ -65,4 +63,4 @@
   - [Box](./chapter11/3.md)
 
 
-- [for dev](./mdbook_ref.md)
+<!-- - [for dev](./mdbook_ref.md) -->
